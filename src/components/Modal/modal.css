@@ -1,0 +1,16 @@
+.modal {
+    position: absolute;
+    top: 250px;
+    max-width: 500px;
+    padding: 25px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    background-color: darkgray;
+    margin-top: -160px;
+}
+
+span{
+    width: 360px;
+    border: 1px solid #fff;
+    height: 1px;
+}
